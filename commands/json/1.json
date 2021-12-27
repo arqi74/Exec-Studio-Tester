@@ -1,0 +1,20 @@
+{
+    "title": "ExampleTitle",
+    "color": "GOLD",
+
+    "isDescription": "1",
+    "description": "ExampleDescription",
+
+    "isImage": "0",
+    "imageUrl": "",
+
+    "isFields": "1",
+    "fieldCount": "1",
+
+    "fields": [
+        {
+            "fTitle": "ExampleTitle1",
+            "fDesc": "ExampleDescirption1"
+        }
+    ]
+}
